@@ -1,4 +1,4 @@
-# video_player
+# chorki_video_player
 
 A new Flutter project.
 
